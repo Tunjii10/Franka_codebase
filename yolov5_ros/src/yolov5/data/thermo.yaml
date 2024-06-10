@@ -1,0 +1,3 @@
+# Classes
+nc: 1  # number of classes
+names: ['bag']  # class names

@@ -1,0 +1,10 @@
+float64 posX
+float64 posY
+float64 posZ
+float64 ortX
+float64 ortY
+float64 ortZ
+float64 ortW
+
+---
+bool result
